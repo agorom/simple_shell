@@ -3,11 +3,11 @@
 /**
  * strcat_cd - function that concatenates the two message error in a program
  *
- * @datash: data relevant (directory)
- * @msg: message to print
- * @error: output message
- * @ver_str: counter lines
- * Return: error message
+ * @datash:data relevant(directory)
+ * @msg:messages to print
+ * @error:output messages
+ * @ver_str:counter line
+ * Return:error message
  */
 char *strcat_cd(data_shell *datash, char *msg, char *error, char *ver_str)
 {
